@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yo solo quería ayudar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+        .content {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <p>Hace días que he estado pensado<br>
+        Si a alguien más le he fallado<br>
+        Tantas cosas que han pasado<br>
+        Tan etéreo, tan devastado<br>
+        ¿Es que acaso no te has dado cuenta<br>
+        De los problemas que me atormentan?<br>
+        Tantas voces que no cesan<br>
+        Tantas cosas que ellos cuentan<br>
+        Todo esto es simple actuación<br>
+        Una sola desesperación<br>
+        Una letra sin sentido<br>
+        Una vida sin camino<br>
+        Una jaula sin salida<br>
+        Cada día sin autoestima<br>
+        Yo solo quería ayudar<br>
+        Yo solo quería disfrutar<br>
+        ¿Qué acaso esto no es igual<br>
+        Que la dependencia emocional?<br>
+        Nada importa si eres feliz<br>
+        Nada importa si estás aquí<br>
+        Nada importa si vienes o vas<br>
+        Nada importa sobre mí<br>
+        Siempre me la paso sonriendo<br>
+        Y diciendo cosas al espejo<br>
+        La gente no entiende que está mal<br>
+        Yo solo quería ayudar.<br>
+        Yo solo quería ayudar<br>
+        Yo solo quería disfrutar<br>
+        ¿Acaso crees que esto es irreal?<br>
+        ¿Tú crees en el apego emocional?<br>
+        Ahora en el abismo está todo<br>
+        ¿Al final solo fui un estorbo?<br>
+        Me quedé sin tiempo para hablar<br>
+        Yo solo quería ayudar.<br>
+        Yo solo quería ayudar<br>
+        Yo solo quería disfrutar<br>
+        24/7 te intenté llamar<br>
+        Solo historias quedan por contar<br>
+        Yo solo quería ayudar...</p>
+    </div>
+</body>
+</html>
